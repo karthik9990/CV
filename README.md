@@ -1,2 +1,2 @@
 # CV
-This i smy personal resume and other details
+This is my personal resume and other details
